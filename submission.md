@@ -184,4 +184,6 @@ d51b03f fix: shrink listening-now window from 24h to 30min so stale listens don'
 7b64551 initial commit
 ```
 
-(branch: `bugfix/mixtape`, one commit per fix — take a screenshot of `git --no-pager log --oneline` on this branch for submission)
+## Screenshot
+<img width="1387" height="222" alt="logs" src="https://github.com/user-attachments/assets/00dadde6-249b-4911-b367-dd914012dee4" />
+
